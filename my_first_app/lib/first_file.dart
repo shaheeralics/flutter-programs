@@ -1,6 +1,3 @@
-import 'dart:io';
-import 'dart:ffi';
-
 void main() {
   List student = ["Shaheer_Ali", 301, 221, 044];
   int age_1 = 65;
